@@ -99,7 +99,7 @@
 #ifdef TBLE_DUAL_2U
 &trans  &trans        &trans     &trans              &trans                    &trans       &trans         &trans &trans &trans
 #elif defined(TBLE_MIT)
- &kp LCTRL  &kp LGUI   &kp LALT  &kp LALT    &mo NUM_L          &kp SPACE                   &kp CALC      &kp PSCRN    &kp LEFT     &kp DOWN      &kp RIGHT
+ &kp LCTRL  &kp LGUI   &kp LALT  &kp LALT    &mo NUM_L          &kp SPACE                   &kp K_CALC      &kp PSCRN    &kp LEFT     &kp DOWN      &kp RIGHT
 #else
 &trans  &trans        &trans     &trans      &trans          &trans       &trans    &trans  &trans         &trans &trans &trans
 #endif
